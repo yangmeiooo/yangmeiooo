@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm yangmeiooo, a Java Backend engineer, who working for 2 years, finding a new job.  
+I'm yangmeiooo, a Java Backend engineer, who working more than 2 years, finding a new job.  
 
 
 - 🔭 I’m currently working in Shenzhen China
