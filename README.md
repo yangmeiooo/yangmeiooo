@@ -11,3 +11,8 @@ I'm yangmeiooo, a Java Backend engineer, who working more than 2 years, finding 
 - 💬 Please ask me some technical questions, or questions about building a foreign trade website, and building an independent website(example:https://gz511.cn)
 - 🐶 Hobby: play switch,table tennis, climbing
 Talk is cheap,Show you code!
+
+
+<img alt="Jha-Vineet69's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=jha-vineet69&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
+
+<img alt="Jha-Vineet69's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jha-vineet69&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
