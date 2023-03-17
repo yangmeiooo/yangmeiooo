@@ -21,7 +21,6 @@ I'm yangmeiooo, a Java Backend engineer, who working more than 2 years, finding 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-https://camo.githubusercontent.com/a579fa4513b43c60484a441f15c1c713054e95c2db47c77fd16c438adcc4484c/68747470733a2f2f6d7962617469732e6f72672f696d616765732f6d7962617469732d6c6f676f2e706e67
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
