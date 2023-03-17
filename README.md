@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="35%" align="right" alt="Github" src="https://www.google.com.hk/url?sa=i&url=http%3A%2F%2Fwww.sohu.com%2Fa%2F244038049_99950724&psig=AOvVaw0d57l7PJ7Y0VVFum8EpLfZ&ust=1679138358040000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJiWl_zr4v0CFQAAAAAdAAAAABAE" />
+<img width="35%" align="right" alt="Github" src="http://5b0988e595225.cdn.sohucs.com/images/20180729/d1c1580af8b24829afd4c2ee23c4e3e0.jpeg" />
 
 
 I'm yangmeiooo, a Java Backend engineer, who working more than 2 years, finding a new job.  
