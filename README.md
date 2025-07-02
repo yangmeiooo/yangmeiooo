@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-## Talk is cheap,Show you code!
 
 
 I'm yangmeiooo, a Java Backend engineer, who working more than 5 years, finding a new job.  
